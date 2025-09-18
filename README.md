@@ -48,8 +48,7 @@ The project will be a timely and invaluable resource guiding the African academi
 
 ### Dataset Stats [Phase 2 release]
 
-- Number of Questions: 24,348
-- Number of Human Answers with explanations: 14,517
+- Number of Questions: 15,275
 - Total Number of Unique Contributors: 621
 - Countries: 18 ['NG', 'TZ', 'KE', 'GH', 'UG', 'BW', 'PH', 'ZA', 'ZW', 'LS', 'ZM',
        'MZ', 'AU', 'SZ', 'US', 'FR', 'MW', 'ET']
@@ -62,13 +61,11 @@ The project will be a timely and invaluable resource guiding the African academi
 |  | tier  |  num questions  | 
 | -------- | -------- | ------- | 
 | AfriMed-QA-Consumer-Queries  | Crowdsourced |  10,000  | 
-| AfriMed-QA-MCQ          |  Crowdsourced  |     6,066 | 
- AfriMed-QA-SAQ        |   Crowdsourced  |      4,013 | 
+| AfriMed-QA-MCQ          |  Crowdsourced  |     129 | 
+ AfriMed-QA-SAQ        |   Crowdsourced  |      877 | 
 | AfriMed-QA-Expert-MCQ          |  Experts  |     3,910 | 
 | AfriMed-QA-Expert-SAQ        |   Experts  |      359 | 
 
-- Crowdsourced = 20,079
-- Expert = 4,269
 
 ### Repo Structure
 
@@ -284,13 +281,8 @@ bash scripts/run.sh
    - `base`: prompt the model without any instruction tuning
    - `instruct`: prompt with model with a instruction e.g as an African Doctor.
 
-
-
-
-
 ### Output
 - The predictions will be evaluated and saved to the `results` folder.
-
 
 #### License
 
