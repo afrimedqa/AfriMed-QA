@@ -1,19 +1,18 @@
 # AfriMed-QA: A pan-African Medical QA Dataset
 
-[doi]: https://doi.org/10.18653/v1/2025.acl-long.96
-[doi-shield]: https://img.shields.io/badge/DOI-10.18653%2Fv1%2F2025.acl--long.96-blue
-
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by] [![DOI][doi-shield]][doi]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
-[![CC BY 4.0][cc-by-image]][cc-by]
+DOI: [https://doi.org/10.18653/v1/2025.acl-long.96](https://doi.org/10.18653/v1/2025.acl-long.96)
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://licensebuttons.net/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
+[doi]: https://doi.org/10.18653/v1/2025.acl-long.96
+[doi-shield]: https://img.shields.io/badge/DOI-10.18653%2Fv1%2F2025.acl--long.96-blue
 
 Collaborating Organizations:
 
